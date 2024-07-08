@@ -1,0 +1,7 @@
+C:\Users\Mevlüt\source\repos\ArraysHomework\ArraysHomework\bin\Debug\ArraysHomework.exe.config
+C:\Users\Mevlüt\source\repos\ArraysHomework\ArraysHomework\bin\Debug\ArraysHomework.exe
+C:\Users\Mevlüt\source\repos\ArraysHomework\ArraysHomework\bin\Debug\ArraysHomework.pdb
+C:\Users\Mevlüt\source\repos\ArraysHomework\ArraysHomework\obj\Debug\ArraysHomework.csproj.AssemblyReference.cache
+C:\Users\Mevlüt\source\repos\ArraysHomework\ArraysHomework\obj\Debug\ArraysHomework.csproj.CoreCompileInputs.cache
+C:\Users\Mevlüt\source\repos\ArraysHomework\ArraysHomework\obj\Debug\ArraysHomework.exe
+C:\Users\Mevlüt\source\repos\ArraysHomework\ArraysHomework\obj\Debug\ArraysHomework.pdb
